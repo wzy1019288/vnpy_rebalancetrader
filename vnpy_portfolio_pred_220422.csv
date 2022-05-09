@@ -1,0 +1,11 @@
+vt_symbol,direction,total_volume,time_interval,vol_percent
+bu2206.SHFE,多,56,10,0.1
+cu2205.SHFE,空,5,10,0.1
+FG209.CZCE,空,49,10,0.1
+j2209.DCE,多,5,10,0.1
+jm2209.DCE,多,10,10,0.1
+rb2210.SHFE,多,42,10,0.1
+ru2209.SHFE,空,16,10,0.1
+sc2206.INE,多,3,10,0.1
+SR209.CZCE,空,34,10,0.1
+TF2206.CFFEX,空,2,10,0.1
